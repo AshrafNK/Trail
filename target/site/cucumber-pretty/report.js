@@ -33,21 +33,21 @@ formatter.match({
   "location": "StepDefinition.launch_URL()"
 });
 formatter.result({
-  "duration": 7404247200,
+  "duration": 8464071100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.enter_XPS_in_serach_field()"
 });
 formatter.result({
-  "duration": 1003033100,
+  "duration": 749503700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.click_on_search_link()"
 });
 formatter.result({
-  "duration": 764080500,
+  "duration": 990227900,
   "status": "passed"
 });
 formatter.scenario({
@@ -72,14 +72,14 @@ formatter.match({
   "location": "StepDefinition.launch_URL()"
 });
 formatter.result({
-  "duration": 7500883600,
+  "duration": 8527398600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.click_on_cart()"
 });
 formatter.result({
-  "duration": 637308200,
+  "duration": 560142500,
   "status": "passed"
 });
 });
