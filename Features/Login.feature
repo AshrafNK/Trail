@@ -10,7 +10,7 @@ Scenario: Verify laptop page display
 Given launch URL
 Then click on cart
 
-
+# This is a git exercise
 
 
 
